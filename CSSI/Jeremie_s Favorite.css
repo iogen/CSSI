@@ -1,0 +1,9 @@
+body{
+  background-color:#9EADFF;
+  font-family: 'Francois One', sans-serif;
+}
+#aaa{
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}

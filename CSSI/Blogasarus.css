@@ -1,0 +1,50 @@
+body{
+  background-color:#939AFF;
+  font-family: 'Francois One', sans-serif;
+}
+#aaa{
+  text-align: center;
+
+}
+
+#boxedCatagories{
+  text-align: center;
+  display: flex;
+  border: 10px double black;
+  border-radius: 20px
+}
+
+
+section{
+  border: 10px solid white;
+  height: 500px;
+  top: 100px;
+  position: relative;
+  background: #9EADFF;
+}
+
+<style>
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>

@@ -1,0 +1,32 @@
+<html>
+ <body>
+   <h1>Movie Review</h1>
+   <p>
+    Name of Movie:  {{name}}
+
+    <br>
+    Length of Movie:  {{length}} minutes
+    <br>
+
+    Number of Reviews:  {{num_reviews}}
+    <br>
+    Stars:  {{stars}}
+    <br>
+
+    {% if num_reviews > 30 and stars > 3 %}
+        This movie must be great!!
+    {% endif %}
+
+    {% if num_reviews < 5 and stars < 3 %}
+        I’m not sure about this movie
+    {% endif %}
+    
+    {% if num_reviews == 0 %}
+        This movie needs some reviews. Be the first to review!}}
+    {% endif %}
+
+  </p>
+
+
+ </body>
+</html>

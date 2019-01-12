@@ -1,0 +1,47 @@
+body{
+  background-color:rgb(209,209,209);
+  font-family: 'Francois One', sans-serif;
+}
+.aaa{
+  float:left;
+}
+#aaa .net{
+  float: right;
+}
+
+.net{
+  float:right;
+}
+
+
+#bbb{
+  float:left;
+
+}
+
+#bbb {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+}
+#ccc {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  float:right;
+}
+
+ul#aaa {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0,0,0);
+}
+
+#aaa li {
+    float: left;
+}
+
+#aaa li img {
+  height: 177px;
+  width: 300px
+}

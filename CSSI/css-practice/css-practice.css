@@ -1,0 +1,23 @@
+h2{
+  color: red;
+  font-style: italic;
+}
+
+p{
+  text-align: left;
+  text-indent: 3cm;
+  font-family: 'Yellowtail', cursive;
+}
+ol{
+  list-style-type: lower-greek;
+  list-style-position: inside;
+}
+h1{
+  font-family: 'Yellowtail', cursive;
+  background: ;
+  color: blue;
+}
+body{
+  background-color:#60F3FF;
+  font-family:'Yellowtail',cursive;
+}

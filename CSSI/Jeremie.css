@@ -1,0 +1,31 @@
+h2{
+  color: blue;
+  font-style: italic;
+}
+
+p{
+
+  font-family: 'Francois One', sans-serif;
+}
+ol{
+  list-style-type: lower-greek;
+  list-style-position: inside;
+}
+h1{
+  font-family: 'Francois One', sans-serif;
+  background: ;
+  color: blue;
+}
+body{
+  background-color:#9EADFF;
+  font-family: 'Francois One', sans-serif;
+}
+#aaa{text-align: center;}
+#bbb{text-align: center;}
+#ccc{text-align: center;}
+#eee img{
+  width: 600px;
+  height: 300px;
+}
+
+.aaa{text-align: left;}
